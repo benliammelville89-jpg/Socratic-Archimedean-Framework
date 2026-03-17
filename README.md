@@ -2,7 +2,7 @@
 A methodology for high-fidelity human-AI collaboration
 The Socratic-Archimedean Framework (SOC-ARCH)
 A Methodology for High-Fidelity Human-AI Collaboration
-© [Ben Liam Melville] 2026. All rights reserved.
+© Ben Liam Melville 2026. All rights reserved.
 
 Origin
 This framework was developed through iterative experimentation with large language models, born from a simple question: who pairs well with Socrates?
